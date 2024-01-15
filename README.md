@@ -10,3 +10,4 @@ This is a project system that uses the following tech stack:
 6. React Hook Form
 7. Material UI
 8. SOLID Principles
+9. Theme Context
