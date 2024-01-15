@@ -9,3 +9,4 @@ This is a project system that uses the following tech stack:
 5. Entity Framework Core
 6. React Hook Form
 7. Material UI
+8. SOLID Principles
