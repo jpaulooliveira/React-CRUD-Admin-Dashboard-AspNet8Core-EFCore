@@ -1,0 +1,17 @@
+Primeira versao do projeto com todos cruds funcionando, Text Field MUI e ReactHookForm, Service separado e funcoes de categorias todas dentro de useCategories,
+Projeto ainda sem estrutura definida
+
+
+Segunda Versao do Projeto funcionando com uma estrutura de projeto definida, TextFieldMUI funcionando com ReactHookForm.
+
+Estrutura:
+
+Componentes - Componenstes como modais, textfields, grids, etc..
+Constantes - Constantes a serem utilizadas no projeto, atualmente apenas com a url da api
+Context - Contexto de tema com cores personalizaveis e com light e dark mode
+Helpers - Endpoints e Conexao com a api via axios
+Pages - Paginas do Projeto separadas por classe e com uma pasta interna de sections
+Pages-Hooks - handlers e objetos necessários para a pagina funcionar
+Pages-Services - funcões que fazem acesso direto a api
+Pages-Utils - funcoes e propriedades necessárias para a pagina funcionar
+Types- Tipos e Interfaces usadas no projeto
